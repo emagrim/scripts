@@ -1,5 +1,4 @@
 //VERSION=2
-
 function evaluatePixel(samples) {
   var sample = samples[0];
 //  if (sample != undefined){
