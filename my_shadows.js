@@ -1,4 +1,5 @@
 //VERSION=2
+test
 return [B02*2.5,B02*2.5,B03*2.5];
 
 // function evaluatePixel(samples) {
